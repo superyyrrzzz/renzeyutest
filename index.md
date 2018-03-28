@@ -6,4 +6,4 @@
 
 [bookmark3](ref.md#chapter3)
 
-[invalid bookmark](ref.md#chapter4)
+[invalid bookmark is not valid](ref.md#chapter3)
