@@ -5,3 +5,5 @@
 [bookmark2](ref.md#chapter2)
 
 [bookmark3](ref.md#chapter3)
+
+[invalid bookmark](ref.md#chapter4)
