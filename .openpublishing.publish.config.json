@@ -1,6 +1,7 @@
 {
   "docsets_to_publish": [
     {
+      "need_preview_pull_request": true,
       "docset_name": "renzeyutest",
       "build_source_folder": ".",
       "build_output_subfolder": "renzeyutest",
