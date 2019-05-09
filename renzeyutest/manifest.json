@@ -1,0 +1,247 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/docs/renzeyutest",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Toc",
+      "source_relative_path": "TOC.yml",
+      "output": {
+        ".html": {
+          "relative_path": "TOC.html",
+          "hash": "S77EMYC5gxQfUpTSvInG+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "a b.md",
+      "output": {
+        ".html": {
+          "relative_path": "a b.html",
+          "hash": "pU5kbbEbDgmq1JkZrpTgxQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "breadcrumb/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "breadcrumb/toc.html",
+          "hash": "dNSzreRP/syvqGh1Gs5oYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "included.md",
+      "output": {
+        ".html": {
+          "relative_path": "included.html",
+          "hash": "2zCZK6PHiX2IE6Ec67KiiA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "l0al22quR69aptTRXJDZmA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/GitHub-Mark.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/GitHub-Mark.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ref.md",
+      "output": {
+        ".html": {
+          "relative_path": "ref.html",
+          "hash": "Pmkr2/v6o/2DyMVHp9uylQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ref2.md",
+      "output": {
+        ".html": {
+          "relative_path": "ref2.html",
+          "hash": "zfouWK1NyXXITed6xT9kQQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ref4.md",
+      "output": {
+        ".html": {
+          "relative_path": "ref4.html",
+          "hash": "MzWOWFX+DyBzb4JPr4KfWg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ref5.md",
+      "output": {
+        ".html": {
+          "relative_path": "ref5.html",
+          "hash": "LoTKZ5t5oEUqJDqWBo8ySg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ref6.md",
+      "output": {
+        ".html": {
+          "relative_path": "ref6.html",
+          "hash": "SRR8ptelTOFl5DWn1A8I0w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ref7.md",
+      "output": {
+        ".html": {
+          "relative_path": "ref7.html",
+          "hash": "kjrN9mUk/qmfxIwxvbEXbw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ref8.md",
+      "output": {
+        ".html": {
+          "relative_path": "ref8.html",
+          "hash": "7dfTrlXd5LnAGBzLVT9qew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "renzeyutest/media/GitHub-Mark.png",
+      "output": {
+        "resource": {
+          "relative_path": "renzeyutest/media/GitHub-Mark.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "sub/TOC.yml",
+      "output": {
+        ".html": {
+          "relative_path": "sub/TOC.html",
+          "hash": "xA+460N7UXVBbYha1aq+rA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "sub/include.md",
+      "output": {
+        ".html": {
+          "relative_path": "sub/include.html",
+          "hash": "+rUH3HHM2sr7+5awwbyeuw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Disable incremental build by force rebuild option.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "ForceRebuild"
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 11,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: it's disabled.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
