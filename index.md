@@ -21,3 +21,4 @@ modify in PR
 `<a href="#">test # link</a>`: <a href="#">test # link</a>
 
 <script>alert('test');</script>
+<IMG SRC="javascript:alert('XSS');">
