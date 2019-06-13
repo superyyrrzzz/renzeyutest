@@ -22,3 +22,4 @@ modify in PR
 
 <script>alert('test');</script>
 <IMG SRC="javascript:alert('XSS');">
+<IFRAME SRC="javascript:alert('XSS');"></IFRAME>
