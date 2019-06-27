@@ -5,6 +5,7 @@ description: rétablir "/> <script>alert('test');</script> <meta property="b" co
 # Welcome to renzeyutest! 
 
 Link to a uid defined in conceptual YAML header `[here](xref:fundamentals/localization?view=aspnetcore-2.2#chapter3)`: [here](xref:fundamentals/localization?view=aspnetcore-2.2#chapter3)
+Link to a uid defined in conceptual YAML header `[here](xref:fundamentals/localization?view2=aspnetcore-2.2#chapter3)`: [here](xref:fundamentals/localization?view2=aspnetcore-2.2#chapter3)
 
 modify in PR
 
