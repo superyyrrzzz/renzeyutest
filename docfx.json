@@ -1,4 +1,4 @@
-{
+﻿{
   "build": {
     "content": [
       {
@@ -40,6 +40,7 @@
       "breadcrumb_path": "/renzeyutest/breadcrumb/toc.json",
       "extendBreadcrumb": true
     },
+    "exportRawModel": true,
     "fileMetadata": {},
     "template": [],
     "dest": "renzeyutest",
