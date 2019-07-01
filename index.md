@@ -18,7 +18,7 @@ modify in PR
 
 [invalid bookmark is not valid](ref.md#chapter3)
 
-![github](media/GitHub-Mark.png)
+![github](media/github-mark.png)
 
 `[test # link](#)`: [test # link](#)
 
