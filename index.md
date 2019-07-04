@@ -4,6 +4,8 @@ description: rétablir "/> <script>alert('test');</script> <meta property="b" co
 
 # Welcome to renzeyutest! 
 
+[Docs の Markdown に関する簡易参照ガイド](./media/documents/markdown-cheatsheet.pdf?raw=true)
+
 Link to a uid defined in conceptual YAML header `[here](xref:fundamentals/localization?view=aspnetcore-2.2#chapter3)`: [here](xref:fundamentals/localization?view=aspnetcore-2.2#chapter3)
 Query is not view `[here](xref:fundamentals/localization?view2=aspnetcore-2.2#chapter3)`: [here](xref:fundamentals/localization?view2=aspnetcore-2.2#chapter3)
 If it has not bookmark `[here](xref:fundamentals/localization?view=aspnetcore-2.2)`: [here](xref:fundamentals/localization?view=aspnetcore-2.2)
