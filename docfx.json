@@ -16,7 +16,8 @@
           "LICENSE",
           "LICENSE-CODE",
           "ThirdPartyNotices"
-        ]
+        ],
+        "group": "2015"
       }
     ],
     "resource": [
@@ -34,6 +35,12 @@
         ]
       }
     ],
+    "groups": {
+      "2015": {
+        "dest": "2015",
+        "moniker_range": "toolsforcordova-2015"
+      }
+    },
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
