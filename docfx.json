@@ -49,7 +49,11 @@
       "extendBreadcrumb": true
     },
     "exportRawModel": true,
-    "fileMetadata": {},
+    "fileMetadata": {
+      "title": {
+        "_csharp/proposals/csharp-7.0/binary-literals.md": "Binary literals"
+      }
+    },
     "template": [],
     "dest": "renzeyutest",
     "markdownEngineName": "markdig"
