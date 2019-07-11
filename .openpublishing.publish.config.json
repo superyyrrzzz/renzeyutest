@@ -28,6 +28,11 @@
       "url": "https://github.com/Microsoft/templates.docs.msft", 
       "branch": "master",
       "branch_mapping": {}
+    },
+    {
+      "path_to_root": "_csharplang",
+      "url": "https://github.com/dotnet/csharplang",
+      "branch": "master"
     }
   ],
   "branch_target_mapping": {},
