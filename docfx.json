@@ -51,7 +51,7 @@
     "exportRawModel": true,
     "fileMetadata": {
       "title": {
-        "_csharp/proposals/csharp-7.0/binary-literals.md": "Binary literals"
+        "_csharp/proposals/csharp-7.0/binary-literals.md": "Binary literals (defined in file metadata)"
       }
     },
     "template": [],
