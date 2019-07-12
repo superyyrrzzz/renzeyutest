@@ -41,6 +41,7 @@
       "extendBreadcrumb": true
     },
     "exportRawModel": true,
+    "exportViewModel": true,
     "fileMetadata": {},
     "template": [],
     "dest": "renzeyutest",
