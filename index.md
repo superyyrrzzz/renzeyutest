@@ -1,7 +1,13 @@
-#
+---
+author:renzeyu
+---
 
-empty h1??
+# Execute Content Extraction
 
-# test
+This tutorial covers how to run run the MTPS Content Extractor tool on your identified libraries.
 
-# multiple-h1s
+## Prerequisites 
+
+
+# Next steps
+You are ready to move to the QA stage for your extracted libraries. Please refer to [Content QA ](test.md)
