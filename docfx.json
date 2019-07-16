@@ -18,13 +18,6 @@
           "LICENSE-CODE",
           "ThirdPartyNotices"
         ]
-      },
-      {
-        "files": [
-          "csharp-7.0/binary-literals.md"
-        ],
-        "src": "_csharplang/proposals",
-        "dest": "csharp/language-reference/proposals"
       }
     ],
     "resource": [
