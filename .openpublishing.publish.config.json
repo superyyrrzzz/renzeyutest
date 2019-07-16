@@ -43,5 +43,6 @@
   "branch_target_mapping": {
   },
   "enable_custom_validation": false,
+  "enable_custom_metadata_validation": false,
   "need_generate_pdf_url_template": false
 }
