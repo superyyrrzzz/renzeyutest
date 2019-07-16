@@ -47,5 +47,6 @@
   ],
   "branch_target_mapping": {
   },
+  "enable_branch_build_custom_validation": true,
   "need_generate_pdf_url_template": false
 }
