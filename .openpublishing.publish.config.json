@@ -31,5 +31,6 @@
     }
   ],
   "branch_target_mapping": {},
+  "enable_incremental_build": true,
   "need_generate_pdf_url_template": false
 }
