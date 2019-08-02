@@ -43,7 +43,7 @@
     "exportRawModel": true,
     "exportViewModel": true,
     "fileMetadata": {
-      "title": { "index.md": "this title is from fileMetadata/title" }
+      "title": { "index.md": "this title is from fileMetadata/title" },
       "titleOverwriteH1": { "index.md": "this title is from fileMetadata/titleOverwriteH1" }
     },
     "template": [],
