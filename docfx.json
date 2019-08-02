@@ -42,7 +42,7 @@
     },
     "exportRawModel": true,
     "exportViewModel": true,
-    "fileMetadata": {},
+    "fileMetadata": { "title": {"index.md": "this title is from fileMetadata/title" }},
     "template": [],
     "dest": "renzeyutest",
     "markdownEngineName": "markdig"
