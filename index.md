@@ -1,5 +1,6 @@
 ---
-description: rétablir "/> <script>alert('test');</script> <meta property="b" content="b
+description: "rétablir "/> <script>alert('test');</script> <meta property="b" content="b"
+api_type: "this should be array, expect warning W.UnexpectedType"
 ---
 
 # Welcome to renzeyutest! 
