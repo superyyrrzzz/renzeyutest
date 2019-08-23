@@ -10,13 +10,9 @@ test an absolute link: `https://blogs.windows.com/windowsexperience/2017/01/23/I
 
 https://blogs.windows.com/windowsexperience/2017/01/23/Introducing-Windows-Defender-Security-Center/\#m4mv5W0GYKZpGvfA.97
 
-test invalid bookmark: [invalid bookmark](#stack)
-
 `@"c:\\a\\b\\c"`: @"c:\\a\\b\\c"
 
 `\@"c:\\a\\b\\c"`: \@"c:\\a\\b\\c"
-
-[Docs の Markdown に関する簡易参照ガイド](./media/documents/markdown-cheatsheet.pdf?raw=true)
 
 Link to a uid defined in conceptual YAML header `[here](xref:fundamentals/localization?view=aspnetcore-2.2#chapter3)`: [here](xref:fundamentals/localization?view=aspnetcore-2.2#chapter3)
 Query is not view `[here](xref:fundamentals/localization?view2=aspnetcore-2.2#chapter3)`: [here](xref:fundamentals/localization?view2=aspnetcore-2.2#chapter3)
