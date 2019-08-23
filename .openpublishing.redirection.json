@@ -1,0 +1,8 @@
+{
+  "redirections": [
+    {
+      "source_path": "landing/index.md",
+      "redirect_url": "https://github.com/superyyrrzz/renzeyutest",
+      "redirect_document_id": false
+    }
+  ]
