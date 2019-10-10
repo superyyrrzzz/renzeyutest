@@ -1,0 +1,100 @@
+Slug,Friendly Name,Level,Broader term
+dotnet,.NET,1,
+aspnet,ASP.NET,2,dotnet
+aspnet-core,ASP.NET Core,2,dotnet
+dotnet-core,.NET Core,2,dotnet
+dotnet-standard,.NET Standard,2,dotnet
+ef-core,Entity Framework Core,2,dotnet
+azure,Azure,1,
+azure-active-directory,Active Directory,2,azure
+azure-advisor,Advisor,2,azure
+azure-bot-service,Bot Service,2,azure
+azure-cdn,Content Delivery Network,2,azure
+azure-clis,CLIs,2,azure
+azure-cloud-shell,Cloud Shell,2,azure
+azure-cognitive-services,Cognitive Services,2,azure
+azure-container-instances,Container Instances,2,azure
+azure-container-registry,Container Registry,2,azure
+azure-cosmos-db,Cosmos DB,2,azure
+azure-cost-management,Cost Management,2,azure
+azure-data-catalog,Data Catalog,2,azure
+azure-data-science-vm,Data Science Virtual Machines,2,azure
+azure-databricks,Databricks,2,azure
+azure-digital-twins,Digital Twins,2,azure
+azure-event-grid,Event Grid,2,azure
+azure-event-hubs,Event Hubs,2,azure
+azure-functions,Functions,2,azure
+azure-hdinsight,HDInsight,2,azure
+azure-iot-edge,IoT Edge,2,azure
+azure-iot-hub,IoT Hub,2,azure
+azure-iot-central,IoT Central,2,azure
+azure-key-vault,Key Vault,2,azure
+azure-language-understanding,Language Understanding,2,azure
+azure-machine-learning-service,Machine Learning service,2,azure
+azure-machine-learning-studio,Machine Learning Studio,2,azure
+azure-maps,Azure Maps,2,azure
+azure-monitor,Monitor,2,azure
+azure-portal,Microsoft Azure portal,2,azure
+azure-redis-cache,Cache for Redis,2,azure
+azure-resource-manager,Resource Manager,2,azure
+azure-sdks,SDKs,2,azure
+azure-service-bus,Service Bus,2,azure
+azure-sql-data-warehouse,SQL Data Warehouse,2,azure
+azure-sql-database,SQL Database,2,azure
+azure-storage,Storage,2,azure
+azure-stream-analytics,Stream Analytics,2,azure
+azure-virtual-machines,Virtual Machines,2,azure
+dynamics,Dynamics 365,1,
+dynamics-ai-market-insights,AI for Market Insights,2,dynamics
+dynamics-ai-customer-service,AI for Customer Service,2,dynamics
+dynamics-ai-sales,AI for Sales,2,dynamics
+dynamics-business-central,Business Central,2,dynamics
+dynamics-customer-engagement,Customer Engagement,2,dynamics
+dynamics-customer-service,Customer Service,2,dynamics
+dynamics-field-service,Field Service,2,dynamics
+dynamics-finance-operations,Finance and Operations,2,dynamics
+dynamics-layout,Layout,2,dynamics
+dynamics-marketing,Marketing,2,dynamics
+dynamics-operations,Operations,2,dynamics
+dynamics-project-service,Project Service Automation,2,dynamics
+dynamics-remote-assist,Remote Assist,2,dynamics
+dynamics-retail,Retail,2,dynamics
+dynamics-sales,Sales,2,dynamics
+dynamics-talent,Talent,2,dynamics
+m365,Microsoft 365,1,
+m365-ems,Enterprise Mobility + Security,2,m365
+office,Office,1,
+office-access,Access,2,office
+office-adaptive-cards,Adaptive Cards,2,office
+office-excel,Excel,2,office
+office-kaizala,Kaizala,2,office
+office-ms-graph,Microsoft Graph,2,office
+office-365,Office 365,2,office
+office-add-ins,Office Add-ins,2,office
+office-ui-fabric,Office UI Fabric,2,office
+office-onedrive,OneDrive,2,office
+office-onenote,OneNote,2,office
+office-outlook,Outlook,2,office
+office-planner,Planner,2,office
+office-powerpoint,PowerPoint,2,office
+office-project,Project,2,office
+office-publisher,Publisher,2,office
+office-sp-framework,SharePoint Framework,2,office
+office-skype-business,Skype for Business,2,office
+office-teams,Teams,2,office
+office-visio,Visio,2,office
+office-word,Word,2,office
+office-yammer,Yammer,2,office
+power-platform,Power Platform,1,
+common-data-service,Common Data Service for Apps,2,power-platform
+flow,Microsoft Flow,2,power-platform
+power-bi,Power BI,2,power-platform
+powerapps,PowerApps,2,power-platform
+skype,Skype,1,
+sql-server,SQL Server,1,
+vs,Visual Studio,1,
+vs-code,Visual Studio Code,2,vs
+xamarin,Xamarin,2,vs
+windows,Windows,1,
+windows-uwp,Universal Windows Platform (UWP),2,windows
+windows-wpf,Windows Presentation Foundation (WPF),2,windows
