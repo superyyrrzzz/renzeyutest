@@ -5,9 +5,19 @@ aspnet-core,ASP.NET Core,2,dotnet
 dotnet-core,.NET Core,2,dotnet
 dotnet-standard,.NET Standard,2,dotnet
 ef-core,Entity Framework Core,2,dotnet
+xamarin,Xamarin,2,dotnet
 azure,Azure,1,
 azure-active-directory,Active Directory,2,azure
 azure-advisor,Advisor,2,azure
+azure-api-management,API Management,2,azure
+azure-application-gateway,Application Gateway,2,azure
+azure-app-service,App Service,2,azure
+azure-automation,Automation,2,azure
+azure-backup,Backup,2,azure
+azure-batch,Batch,2,azure
+azure-blockchain-service,Blockchain Service,2,azure
+azure-blockchain-workbench,Blockchain Workbench,2,azure
+azure-blueprints,Blueprints,2,azure
 azure-bot-service,Bot Service,2,azure
 azure-cdn,Content Delivery Network,2,azure
 azure-clis,CLIs,2,azure
@@ -18,57 +28,89 @@ azure-container-registry,Container Registry,2,azure
 azure-cosmos-db,Cosmos DB,2,azure
 azure-cost-management,Cost Management,2,azure
 azure-data-catalog,Data Catalog,2,azure
+azure-data-lake,Data Lake,2,azure
 azure-data-science-vm,Data Science Virtual Machines,2,azure
+azure-devops,DevOps,2,azure
 azure-databricks,Databricks,2,azure
 azure-digital-twins,Digital Twins,2,azure
+azure-dns,DNS,2,azure
 azure-event-grid,Event Grid,2,azure
 azure-event-hubs,Event Hubs,2,azure
+azure-expressroute,Expressroute,2,azure
+azure-files,Files,2,azure
 azure-functions,Functions,2,azure
 azure-hdinsight,HDInsight,2,azure
 azure-iot-edge,IoT Edge,2,azure
 azure-iot-hub,IoT Hub,2,azure
 azure-iot-central,IoT Central,2,azure
 azure-key-vault,Key Vault,2,azure
+azure-kubernetes-service,Kubernetes Service,2,azure
 azure-language-understanding,Language Understanding,2,azure
+azure-load-balancer,Load Balancer,2,azure
+azure-logic-apps,Logic Apps,2,azure
 azure-machine-learning-service,Machine Learning service,2,azure
 azure-machine-learning-studio,Machine Learning Studio,2,azure
 azure-maps,Azure Maps,2,azure
+azure-media-services,Media Services,2,azure
 azure-monitor,Monitor,2,azure
+azure-netapp-files,Netapp Files,2,azure
+azure-notebooks,Notebooks,2,azure
+azure-policy,Policy,2,azure
 azure-portal,Microsoft Azure portal,2,azure
 azure-redis-cache,Cache for Redis,2,azure
+azure-resource-graph,Resource Graph,2,azure
 azure-resource-manager,Resource Manager,2,azure
 azure-sdks,SDKs,2,azure
+azure-search,Search,2,azure
 azure-service-bus,Service Bus,2,azure
+azure-site-recovery,Site Recovery,2,azure
+azure-sphere,Sphere,2,azure
 azure-sql-data-warehouse,SQL Data Warehouse,2,azure
 azure-sql-database,SQL Database,2,azure
 azure-storage,Storage,2,azure
 azure-stream-analytics,Stream Analytics,2,azure
-azure-virtual-machines,Virtual Machines,2,azure
+azure-traffic-manager,Traffic Manager,2,azure
+azure-virtual-machines,Virtual Machinies,2,azure
+azure-virtual-network,Virtual Network,2,azure
+azure-vpn-gateway,VPN Gateway,2,azure
 dynamics,Dynamics 365,1,
 dynamics-ai-market-insights,AI for Market Insights,2,dynamics
 dynamics-ai-customer-service,AI for Customer Service,2,dynamics
 dynamics-ai-sales,AI for Sales,2,dynamics
 dynamics-business-central,Business Central,2,dynamics
+dynamics-commerce,Commerce,2,dynamics
+dynamics-cust-insights,Customer Insights,2,dynamics
 dynamics-customer-engagement,Customer Engagement,2,dynamics
 dynamics-customer-service,Customer Service,2,dynamics
+dynamics-cust-svc-insights,Customer Service Insights,2,dynamics
 dynamics-field-service,Field Service,2,dynamics
+dynamics-finance,Finance,2,dynamics
 dynamics-finance-operations,Finance and Operations,2,dynamics
+dynamics-fraud-protection,Fraud Protection,2,dynamics
+dynamics-guides,Guides,2,dynamics
 dynamics-layout,Layout,2,dynamics
 dynamics-marketing,Marketing,2,dynamics
+dynamics-market-insights,Market Insights,2,dynamics
 dynamics-operations,Operations,2,dynamics
+dynamics-prod-visualize,Product Visualize,2,dynamics
 dynamics-project-service,Project Service Automation,2,dynamics
 dynamics-remote-assist,Remote Assist,2,dynamics
 dynamics-retail,Retail,2,dynamics
 dynamics-sales,Sales,2,dynamics
+dynamics-scm,Supply Chain Management,2,dynamics
 dynamics-talent,Talent,2,dynamics
+dynamics-talent-attract,Talent Attract,2,dynamics
+dynamics-talent-core,Talent Core,2,dynamics
+dynamics-talent-onboard,Talent Onboard,2,dynamics
 m365,Microsoft 365,1,
 m365-ems,Enterprise Mobility + Security,2,m365
+mdatp,MDATP,1,
+ms-graph,Microsoft Graph,1,
 office,Office,1,
 office-access,Access,2,office
 office-adaptive-cards,Adaptive Cards,2,office
 office-excel,Excel,2,office
 office-kaizala,Kaizala,2,office
-office-ms-graph,Microsoft Graph,2,office
 office-365,Office 365,2,office
 office-add-ins,Office Add-ins,2,office
 office-ui-fabric,Office UI Fabric,2,office
@@ -79,6 +121,7 @@ office-planner,Planner,2,office
 office-powerpoint,PowerPoint,2,office
 office-project,Project,2,office
 office-publisher,Publisher,2,office
+office-sp,SharePoint,2,office
 office-sp-framework,SharePoint Framework,2,office
 office-skype-business,Skype for Business,2,office
 office-teams,Teams,2,office
@@ -86,15 +129,22 @@ office-visio,Visio,2,office
 office-word,Word,2,office
 office-yammer,Yammer,2,office
 power-platform,Power Platform,1,
+ai-builder,AI Builder,2,power-platform
 common-data-service,Common Data Service for Apps,2,power-platform
 flow,Microsoft Flow,2,power-platform
+forms-pro,Forms Pro,2,power-platform
 power-bi,Power BI,2,power-platform
 powerapps,PowerApps,2,power-platform
+qdk,QDK,1,
 skype,Skype,1,
 sql-server,SQL Server,1,
 vs,Visual Studio,1,
+vs-app-center,Visual Studio App Center,2,vs
 vs-code,Visual Studio Code,2,vs
-xamarin,Xamarin,2,vs
+vs-mac,Visual Studio Mac,2,vs
 windows,Windows,1,
+windows-api-win32,API Win32,2,windows
+windows-forms,Forms,2,windows
 windows-uwp,Universal Windows Platform (UWP),2,windows
+windows-wdk,Windows Driver Kit (WDK),2,windows
 windows-wpf,Windows Presentation Foundation (WPF),2,windows
