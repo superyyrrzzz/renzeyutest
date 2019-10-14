@@ -8,6 +8,8 @@ description: rétablir "/> <script>alert('test');</script> <meta property="b" co
 
 `![github](media\GITHUB-MARK.png)`: ![github](media\GITHUB-MARK.png)
 
+`![github](media/GITHUB-MARK.png)`: ![github](media/GITHUB-MARK.png)
+
 test xref: @System.String
 
 test an absolute link: `https://blogs.windows.com/windowsexperience/2017/01/23/Introducing-Windows-Defender-Security-Center/\#m4mv5W0GYKZpGvfA.97`
