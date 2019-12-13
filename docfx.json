@@ -38,14 +38,17 @@
     "externalReference": [],
     "globalMetadata": {
       "breadcrumb_path": "/renzeyutest/breadcrumb/toc.json",
-      "extendBreadcrumb": true,
-      "author": "superyyrrzz"
+      "extendBreadcrumb": true      
     },
     "exportRawModel": true,
     "exportViewModel": true,
     "fileMetadata": {
       "title": { "index.md": "this title is from fileMetadata/title" },
       "titleOverwriteH1": { "index.md": "this title is from fileMetadata/titleOverwriteH1" }
+      "author": {
+          "*.md": "fenxu",
+          "index.md": "superyyrrzz",
+          "ref*.md": "928PJY"
     },
     "template": [],
     "dest": "renzeyutest",
