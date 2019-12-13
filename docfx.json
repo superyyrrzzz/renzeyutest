@@ -46,9 +46,10 @@
       "title": { "index.md": "this title is from fileMetadata/title" },
       "titleOverwriteH1": { "index.md": "this title is from fileMetadata/titleOverwriteH1" },
       "author": {
-          "*.md": "fenxu",
-          "index.md": "superyyrrzz",
-          "ref*.md": "928PJY"
+        "*.md": "fenxu",
+        "index.md": "superyyrrzz",
+        "ref*.md": "928PJY"
+      }  
     },
     "template": [],
     "dest": "renzeyutest",
