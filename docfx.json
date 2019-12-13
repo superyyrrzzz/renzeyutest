@@ -44,7 +44,7 @@
     "exportViewModel": true,
     "fileMetadata": {
       "title": { "index.md": "this title is from fileMetadata/title" },
-      "titleOverwriteH1": { "index.md": "this title is from fileMetadata/titleOverwriteH1" }
+      "titleOverwriteH1": { "index.md": "this title is from fileMetadata/titleOverwriteH1" },
       "author": {
           "*.md": "fenxu",
           "index.md": "superyyrrzz",
