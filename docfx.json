@@ -38,7 +38,8 @@
     "externalReference": [],
     "globalMetadata": {
       "breadcrumb_path": "/renzeyutest/breadcrumb/toc.json",
-      "extendBreadcrumb": true
+      "extendBreadcrumb": true,
+      "author": "superyyrrzz"
     },
     "exportRawModel": true,
     "exportViewModel": true,
