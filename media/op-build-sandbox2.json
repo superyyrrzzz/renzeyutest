@@ -166,7 +166,7 @@
         "packageversion": {
             "CacheType": "Memory",
             "ConnectionString": "",
-            "ExpireInSeconds": 3600
+            "ExpireInSeconds": 3601
         },
         "publisheddocuments": {
             "CacheType": "Redis",
