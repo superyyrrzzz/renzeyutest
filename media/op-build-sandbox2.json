@@ -182,7 +182,7 @@
     "CacheTemplateRepositories": true,
     "CatsInformation": {
         "create_run_priorities": [ 0 ],
-        "create_run_wait_minutes": 10,
+        "create_run_wait_minutes": 11,
         "is_send_mail": false,
         "run_type": "contentvalidation",
         "service_namespace": "catsapitest",
