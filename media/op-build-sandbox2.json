@@ -1382,7 +1382,7 @@
                         {
                             "name": "sync",
                             "priority": "high",
-                            "initial_weight": 6
+                            "initial_weight": 5
                         },
                         {
                             "name": "sync",
