@@ -782,7 +782,7 @@
     },
     "RunCatsTestJob": false,
     "SasExpirationTimeInMinutesForPackageDownloadInBlob": 44640,
-    "SasExpirationTimeInMinutesForRawLogInBlob": 44640,
+    "SasExpirationTimeInMinutesForRawLogInBlob": 44641,
     "SasExpirationTimeInMinutesForFileMapsInBlob": 44640,
     "SasExpirationTimeInMinutesForBuildConfigInBlob": 44640,
     "ServiceAccountUserIdsInGitRepostiory": {
